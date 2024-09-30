@@ -45,7 +45,11 @@ https://sepolia.etherscan.io/address/0xe98259232909cfb4c9c1c48b4dbd251654d58ea4
 
 ## contact details
 
-- e-mail: kunalsood256@gmail.com
+- 📧 e-mail: kunalsood256@gmail.com
+- 📸 Instagram: https://www.instagram.com/_.kunal._15/?igsh=MXZ3eG5qYXdnbnRtcQ%3D%3D
+- ✖️ X(twitter): https://x.com/Kunal75149721?t=UNbRrDdJGBz-w4t2bXg2oA&s=09
+- 🔗linkedin: LinkedIn
+
 
 ## ✨ Features of the Game and Platform
 🎮 Play-to-Earn Blockchain Game
